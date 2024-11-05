@@ -1,0 +1,14 @@
+{
+  "folders": [
+	{
+		"path": "."
+	},
+	{
+		"path": "apps/\u0017storybook"
+	},
+	{
+		"path": "apps/ladle"
+	}
+],
+  "settings": {}
+}
